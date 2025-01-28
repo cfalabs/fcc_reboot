@@ -1,2 +1,1 @@
-# -fcc_reboot
-codeforamerica Bugbounty POC
+# codeforamerica Bugbounty POC
